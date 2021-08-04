@@ -12,15 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.13.5"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/J2021T/pizza-hunt.git"
-  },
-  "bugs": {
-    "url": "https://github.com/J2021T/pizza-hunt/issues"
-  },
-  "homepage": "https://github.com/J2021T/pizza-hunt#readme"
+    "mongoose": "^5.9.7"
+  }
 }
